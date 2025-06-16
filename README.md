@@ -1,3 +1,6 @@
+# Task appearance (simplified)
+Task: to mark the vertices of the polyline from one end of the shape to the other
+![QuCaptcha simplified appearance](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYAg7wwDzCs9tNKEcyRsYmyArFIuzUKWAgPZUtctT_MvbARcER15DYcGdFos5T_J-8fEo1e7g31P_zEypctWgQGvR3odjTLGt94OAeUvPeqXmqcELjSBysQl7HSnQQFGD4NR8Xfg?key=dnTGlPGafZ97PkobWORP-axG)
 # License
 This project is licensed under the Apache License 2.0.
 Contact: quartyom@gmail.com
